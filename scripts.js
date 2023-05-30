@@ -6,7 +6,7 @@
     let dragWizard = $("#drag-wizard");
 
     let viewer = new Kaleidoscope.Video({
-      source: "./video/Naive_box.mp4",
+      source: "https://drive.google.com/file/d/10CtALaS5nOnZ9gl8pZ6beEt3WRkgAqzL/view?usp=sharing",
       containerId: containerSelector,
       height: window.innerHeight,
       width: window.innerWidth,
